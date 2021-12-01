@@ -72,7 +72,7 @@ class App extends PureComponent {
           <button onClick={this.onStart}>Start</button>
         </div>
         <div>
-          <table>
+          <table border="1">
             <tbody>
               <tr>
                 {this.state.deck && this.state.deck.cards.map((card, index) => (
@@ -82,7 +82,7 @@ class App extends PureComponent {
             </tbody>
           </table>
         </div>
-        <table>
+        <table border="1">
           <tbody>
             {this.state.players.map((player, i) => (
               <tr key={i}>
