@@ -1,3 +1,13 @@
+# Code Challenge
+
+A. Create a small web app with a deck of 52 playing cards in React.
+
+    1. The deck should be printable in a human-readable format.  For example: A♠    A♥    A♦    A♣    2♠  ... Q♣    K♠    K♥    K♦    K♣
+
+    2. The deck should be shuffleable.
+
+    3. There should be a way to deal cards out of the deck to a set number of players.  For example, deal 7 cards each to 5 players.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
