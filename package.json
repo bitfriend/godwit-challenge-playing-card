@@ -18,6 +18,15 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "keywords": [
+    "Godwit Key Company",
+    "Playing Cards",
+    "Deck",
+    "Diamond",
+    "Heart",
+    "Spade",
+    "Club"
+  ],
   "eslintConfig": {
     "extends": [
       "react-app",
