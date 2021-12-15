@@ -1,6 +1,6 @@
 # Code Challenge
 
-[This is problem.](./CHALLENGE.md)
+[See problem A.](./CHALLENGE.md)
 
 # Getting Started with Create React App
 
